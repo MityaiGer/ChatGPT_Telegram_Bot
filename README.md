@@ -22,8 +22,8 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone [URL вашего репозитория]
-cd [название директории]
+git clone https://github.com/MityaiGer/ChatGPT_Telegram_Bot
+cd ChatGPT_Telegram_Bot
 ```
 
 2. Создайте виртуальное окружение и активируйте его:
@@ -109,9 +109,6 @@ python main.py
 
 MIT
 
-## Автор
-
-[Ваше имя/организация]
 
 ## Поддержка
 
